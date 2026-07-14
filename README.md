@@ -18,12 +18,28 @@
 
 ## Features
 
-- **Live TV** with categories, channel logos, and a **timeline TV Guide**
-- **Movies & Series** with posters, categories, and continue watching
-- **Fullscreen player** with pause/resume, a **LIVE** badge, favorite & refresh
-- Sign in with **KwickTV**, or add your own **Xtream Codes** / **M3U** provider
-- **Favorites** and **recently watched** on the home screen
-- Matched to the Kwick Player app layout as closely as Roku allows
+### 📺 Live TV & a real TV Guide
+Browse by category with channel logos, or open the **Plex-style timeline guide** — genre tabs (News, Sports, Movies…), a channel logo column, half-hour timeline, and programme blocks sized by runtime with a red **NOW** line. OK tunes instantly.
+
+### 🎬 Movies & Series
+**Movies | Series** tabs with a category strip and a six-across poster grid. Movie pages show poster, year/genre/runtime/rating, plot, and cast; series pages list seasons and episodes. **Resume + Play from Beginning** remembers where you stopped, and finishing a title clears its spot.
+
+### ▶️ A full player
+Fullscreen video with a channel title + **LIVE** badge, an Android-style control bar (play/pause, mute, refresh, favorite), and live **auto-retry** on hiccups. VOD adds a **seek bar with a grabbable scrubber**, continuous fast-forward / rewind (1×→2×→3×), and a **captions picker**. The remote's dedicated FF/RW/Replay and Left/Right seek all work.
+
+### 🔍 Search
+One search across your whole catalog, results grouped into **Channels · Movies · Series** — pick a channel to watch or a title to open its page.
+
+### ⭐ Home & favorites
+**Recently Watched Channels**, **Favorite Channels**, and **Favorite Movies & Series** rows — favorite anything and it shows up here.
+
+### ⚙️ Deep settings
+Switch/add/remove **providers**, **Hide & Reorder** live/movie/series categories (Move to Top / Hide), **channel sort** (Default / A–Z / Z–A), **hide channels** (Options button on any channel), start-muted, home-row toggles, and clear history / resume points.
+
+### 🔑 Sign in your way
+Featured **KwickTV** sign-in (just username & password), or add any **Xtream Codes** or **M3U** provider. Multiple sources supported.
+
+> **Roku notes:** live TV uses the HLS version of your streams (Roku can't play raw `.ts`), there's no DVR (Roku apps can't record to disk), and external links show an address to type since Roku has no browser. Everything else matches the Android app.
 
 ---
 
