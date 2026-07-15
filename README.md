@@ -24,11 +24,11 @@
 
 ## ⭐ Star this repo
 
-Running KwickPlayer on your Roku? **Drop a star** — it helps others find it and keeps the updates coming.
+Running KwickPlayer on your Roku? Give it a star — it helps others find it and keeps the updates coming.
 
 <div align="center">
 
-[![Star on GitHub](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?style=social)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
+[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kwickflix/kwicktv-roku)
 
 </div>
 
@@ -36,26 +36,13 @@ Running KwickPlayer on your Roku? **Drop a star** — it helps others find it an
 
 ## Features
 
-### 📺 Live TV & a real TV Guide
-Browse by category with channel logos, or open the **Plex-style timeline guide** — genre tabs (News, Sports, Movies…), a channel logo column, half-hour timeline, and programme blocks sized by runtime with a red **NOW** line. OK tunes instantly.
-
-### 🎬 Movies & Series
-**Movies | Series** tabs with a category strip and a six-across poster grid. Movie pages show poster, year/genre/runtime/rating, plot, and cast; series pages list seasons and episodes. **Resume + Play from Beginning** remembers where you stopped, and finishing a title clears its spot.
-
-### ▶️ A full player
-Fullscreen video with a channel title + **LIVE** badge, an Android-style control bar (play/pause, mute, refresh, favorite), and live **auto-retry** on hiccups. VOD adds a **seek bar with a grabbable scrubber**, continuous fast-forward / rewind (1×→2×→3×), and a **captions picker**. The remote's dedicated FF/RW/Replay and Left/Right seek all work.
-
-### 🔍 Search
-One search across your whole catalog, results grouped into **Channels · Movies · Series** — pick a channel to watch or a title to open its page.
-
-### ⭐ Home & favorites
-**Recently Watched Channels**, **Favorite Channels**, and **Favorite Movies & Series** rows — favorite anything and it shows up here.
-
-### ⚙️ Deep settings
-Switch/add/remove **providers**, **Hide & Reorder** live/movie/series categories (Move to Top / Hide), **channel sort** (Default / A–Z / Z–A), **hide channels** (Options button on any channel), start-muted, home-row toggles, and clear history / resume points.
-
-### 🔑 Sign in your way
-Featured **KwickTV** sign-in (just username & password), or add any **Xtream Codes** or **M3U** provider. Multiple sources supported.
+- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly.
+- **🎬 Movies & Series** — Movies | Series tabs, category strip, poster grid; movie and series pages with plot, cast, and Resume / Play from Beginning.
+- **▶️ A full player** — fullscreen video with a LIVE badge and control bar (play/pause, mute, refresh, favorite), live auto-retry, plus a VOD seek bar with a grabbable scrubber, continuous FF/RW, and a captions picker.
+- **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
+- **⭐ Home & favorites** — Recently Watched and Favorites rows for channels, movies, and series.
+- **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
+- **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider.
 
 > **Roku notes:** live TV uses the HLS version of your streams (Roku can't play raw `.ts`), there's no DVR (Roku apps can't record to disk), and external links show an address to type since Roku has no browser. Everything else matches the Android app.
 
