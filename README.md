@@ -48,6 +48,17 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 ---
 
+## 📺 All versions
+
+Kwick Player runs on more than one platform — grab the one for your device:
+
+| Platform | Devices | |
+|:--|:--|:--:|
+| **Roku** | Roku sticks, boxes & TVs | ⬆️ you're here |
+| **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/Get_the_Android_version-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android) |
+
+---
+
 ## Install — Developer Mode
 
 Roku doesn't allow private channel distribution for this app, so installation
