@@ -8,9 +8,27 @@
 
 [![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-roku?style=for-the-badge&color=2086FF&label=latest)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-roku/total?style=for-the-badge&color=2086FF)](https://github.com/Kwickflix/kwicktv-roku/releases)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?style=for-the-badge&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
 [![Roku](https://img.shields.io/badge/platform-Roku-662D91?style=for-the-badge&logo=roku&logoColor=white)](#)
 
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+
 [![Download the ZIP](https://img.shields.io/badge/Download-KwickPlayer_ZIP-2086FF?style=for-the-badge&logo=roku&logoColor=white)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+
+</div>
+
+---
+
+## ⭐ Star this repo
+
+Running KwickPlayer on your Roku? **Drop a star** — it helps others find it and keeps the updates coming.
+
+<div align="center">
+
+[![Star on GitHub](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?style=social)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
 
 </div>
 
@@ -96,6 +114,15 @@ The app installs and launches on your Roku automatically.
 - Roku allows **one sideloaded app** per device. Installing another ZIP through
   Developer Mode **replaces** the current sideloaded app **on that Roku only** —
   it does not affect your other Roku devices.
+
+---
+
+## Community
+
+➡️ [![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3) &nbsp;
+➡️ [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5) &nbsp;
+➡️ [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218) &nbsp;
+➡️ [![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=flat-square&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
 
 ---
 
