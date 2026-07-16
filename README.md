@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="720" alt="Kwick Player for Roku">
+<img src="assets/banner-round.png" width="720" alt="Kwick Player for Roku">
 
 # Kwick Player for Roku
 
