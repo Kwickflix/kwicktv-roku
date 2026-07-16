@@ -8,7 +8,6 @@
 
 [![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-roku?label=version&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-roku/total?label=downloads&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases)
-[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
 [![Roku](https://img.shields.io/badge/platform-Roku-662D91?logo=roku&logoColor=white)](#)
 
 [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
@@ -16,7 +15,9 @@
 [![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
 [![Website](https://img.shields.io/badge/website-kwickflix.shop-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
 
-[![Download the ZIP](https://img.shields.io/badge/Download-KwickPlayer_ZIP-2086FF?style=for-the-badge&logo=roku&logoColor=white)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
+
+[![Download the ZIP](https://img.shields.io/badge/download-KwickPlayer_ZIP-1E7BD7?logo=roku&logoColor=white)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 
 </div>
 
@@ -28,7 +29,7 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 <div align="center">
 
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kwickflix/kwicktv-roku)
+[![Star this repo](https://img.shields.io/badge/⭐-star_this_repo-FFD700?logo=github&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-roku)
 
 </div>
 
@@ -55,7 +56,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 | Platform | Devices | |
 |:--|:--|:--:|
 | **Roku** | Roku sticks, boxes & TVs | ⬆️ you're here |
-| **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/Get_the_Android_version-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kwickflix/kwicktv-android) |
+| **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/get_the-Android_version-3ddc84?logo=android&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-android) |
 
 ---
 
