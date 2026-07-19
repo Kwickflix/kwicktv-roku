@@ -37,11 +37,15 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 ## Features
 
-- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly.
+- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next.
 - **🎬 Movies & Series** — Movies | Series tabs, category strip, poster grid; movie and series pages with plot, cast, and Resume / Play from Beginning.
-- **▶️ A full player** — fullscreen video with a LIVE badge and control bar (play/pause, mute, refresh, favorite), live auto-retry, plus a VOD seek bar with a grabbable scrubber, continuous FF/RW, and a captions picker.
+- **▶️ A full player** — fullscreen video with a LIVE badge and control bar, live auto-retry, a VOD seek bar with a grabbable scrubber, and continuous FF/RW.
+- **💬 Captions & subtitles** — closed captions on live TV (Off/On), a subtitle-track menu on movies & series, an auto-on setting with your preferred language.
+- **👤 Profiles** — Netflix-style "Who's Watching?" with the full avatar pack, optional profile PINs, and separate favorites, lists, resume points, and recents per profile.
+- **🔄 KwickSync** — KwickTV members' profiles, favorites, and lists stay in sync between the Roku and the Android app, automatically.
+- **⭐ Favorites & lists** — Recently Watched and Favorites rows, your own named lists (Sports, Kids…) as Home rows, plus a **Kwick Picks** row of recommendations based on what you watch.
+- **🔒 Parental controls** — lock any category behind a 4-digit PIN: hide it completely, or show it and ask for the PIN.
 - **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
-- **⭐ Home & favorites** — Recently Watched and Favorites rows for channels, movies, and series.
 - **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
 - **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider.
 
