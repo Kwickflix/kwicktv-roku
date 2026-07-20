@@ -48,6 +48,10 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 - **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
 - **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
 - **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider.
+- **⏰ Sleep timer** — Off to 120 minutes on the player bar; when it fires, the app saves your spot and stops the stream.
+- **🗓️ M3U guide data** — playlists with a `url-tvg` XMLTV address fill in the TV Guide and channel pages (Xtream sources use the panel's EPG automatically).
+- **▶️ Cross-device resume** — KwickTV members: start a movie or episode on the Android app, pick it up at the same spot on the Roku.
+- **🛟 Export Logs** — one press in Settings → Account sends a diagnostic log straight to the support server, plus Discord & Telegram links.
 
 > **Roku notes:** live TV uses the HLS version of your streams (Roku can't play raw `.ts`), there's no DVR (Roku apps can't record to disk), and external links show an address to type since Roku has no browser. Everything else matches the Android app.
 
