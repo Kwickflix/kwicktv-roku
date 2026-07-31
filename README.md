@@ -133,6 +133,21 @@ The app installs and launches on your Roku automatically.
 
 ---
 
+## 🙌 Contributors
+
+Kwick Player is shaped by our community — the features below started as member
+requests. Huge thanks to:
+
+- **Ed** — subtitle & caption debugging, PPV its own TV Guide tab
+- **Duffy** — the idea for KwickSync, Play from Beginning, auto-reconnect on stalls
+- **Kevin** — Shuffle Episodes: play a series in random order until you stop it
+- **Mred0940** — Favorite Lists
+- **T.Icarus** — move-to-top category reordering
+- **ZZ** — the Movies/Series category bar, Show Recently Watched toggle
+- **Inno** — and everyone in the community who tests, reports, and requests 💙
+
+---
+
 <div align="center">
 <sub>Not affiliated with any content provider. You supply your own playlist or subscription.</sub>
 </div>
