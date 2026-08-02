@@ -74,6 +74,10 @@ Roku doesn't allow private channel distribution for this app, so installation
 is done through Roku's built-in **Developer Mode**. The **KwickPlayer ZIP** is
 attached to the [latest release](https://github.com/Kwickflix/kwicktv-roku/releases/latest).
 
+> **Already have KwickPlayer and just want the new version?**
+> Skip this — go straight to [🔄 Updating to a new version](#-updating-to-a-new-version).
+> You won't lose your favorites or settings.
+
 ### Step 1 — Enable Developer Mode
 
 Make sure your Roku is powered on and connected to the **same local Wi-Fi
@@ -110,6 +114,48 @@ If you don't already know it:
 6. Click **Install**.
 
 The app installs and launches on your Roku automatically.
+
+---
+
+## 🔄 Updating to a new version
+
+**Already have KwickPlayer installed? You do NOT need to uninstall anything,
+and you will NOT lose your stuff.** Your profiles, favorites, lists, resume
+points and settings all carry straight over to the new version.
+
+You also don't need to redo the remote-button sequence — **Developer Mode
+stays switched on** once you've enabled it. Updating is just steps 2 and 3
+again with the new ZIP:
+
+1. Download the latest **KwickPlayer ZIP** from the
+   [latest release](https://github.com/Kwickflix/kwicktv-roku/releases/latest).
+2. Open a web browser on your computer/phone and enter your **Roku's IP
+   address** (Roku: **Settings → Network → About**).
+3. Log in with **`rokudev`** and the password you created when you enabled
+   Developer Mode.
+4. Click **Upload**, choose the ZIP you just downloaded, then click the
+   install button.
+
+> **The button says "Replace", not "Install".** That's normal — it means it
+> found the existing KwickPlayer and is swapping it for the new one. It is
+> the right button. You don't need to remove the old version first.
+
+That's it — the new version launches on its own.
+
+### Good to know
+
+- **Sideloaded apps don't auto-update.** Roku has no update mechanism for
+  apps installed this way, so you'll need to repeat the above for each new
+  release. It takes about a minute.
+- **Want to know when there's a new version?** Click **Watch** at the top of
+  this page → **Custom** → tick **Releases**. GitHub will email you whenever
+  we publish one.
+- **Forgot your Developer Mode password?** Press the remote sequence from
+  Step 1 again to get back to the Developer Settings screen and set a new
+  one. If you end up having to turn Developer Mode off and on again, just
+  install the ZIP once more afterwards.
+- **Several Rokus?** Each one is separate — update each device you use
+  KwickPlayer on.
 
 ---
 
