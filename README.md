@@ -37,7 +37,8 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 ## Features
 
-- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next.
+- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next. The guide opens on **All**, and under the genre tabs a second row lists your provider's own groups so you can jump straight to the one you want.
+- **🏟️ Sports** — a page that finds the game first, then finds a channel showing it. Browse what's on now and what's coming up, filter by sport, and open any fixture to see every channel in your own playlist carrying it. Built entirely from your own channels and guide — no sports service involved.
 - **🎬 Movies & Series** — Movies | Series tabs, category strip, poster grid; movie and series pages with plot, cast, and Resume / Play from Beginning.
 - **▶️ A full player** — fullscreen video with a LIVE badge and control bar, live auto-retry, a VOD seek bar with a grabbable scrubber, and continuous FF/RW.
 - **💬 Captions & subtitles** — closed captions on live TV (Off/On), a subtitle-track menu on movies & series, an auto-on setting with your preferred language.
