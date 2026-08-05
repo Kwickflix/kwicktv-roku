@@ -185,6 +185,7 @@ Kwick Player is shaped by our community — the features below started as member
 requests. Huge thanks to:
 
 - **Ed** — subtitle & caption debugging, PPV its own TV Guide tab
+- **crak3rjack** — the TV Guide's second row: your provider's own groups inside each genre tab
 - **Duffy** — the idea for KwickSync, Play from Beginning, auto-reconnect on stalls
 - **Kevin** — Shuffle Episodes: play a series in random order until you stop it
 - **Mred0940** — Favorite Lists
