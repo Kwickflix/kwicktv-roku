@@ -37,14 +37,14 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 ## Features
 
-- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next. The guide opens on **All**, and under the genre tabs a second row lists your provider's own groups so you can jump straight to the one you want.
+- **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next. The guide opens on **All**, and under the genre tabs a second row lists your provider's own groups so you can jump straight to the one you want. Prefer a different guide? Point any source at an XMLTV guide of your own in **Settings → TV Guide**.
 - **🏟️ Sports** — a page that finds the game first, then finds a channel showing it. Browse what's on now and what's coming up, filter by sport, and open any fixture to see every channel in your own playlist carrying it. Built entirely from your own channels and guide — no sports service involved.
 - **🎬 Movies & Series** — Movies | Series tabs, category strip, poster grid; movie and series pages with plot, cast, and Resume / Play from Beginning.
 - **▶️ A full player** — fullscreen video with a LIVE badge and control bar, live auto-retry, a VOD seek bar with a grabbable scrubber, and continuous FF/RW.
 - **💬 Captions & subtitles** — closed captions on live TV (Off/On), a subtitle-track menu on movies & series, an auto-on setting with your preferred language.
 - **👤 Profiles** — Netflix-style "Who's Watching?" with the full avatar pack, optional profile PINs, and separate favorites, lists, resume points, and recents per profile.
 - **🔄 KwickSync** — KwickTV members' profiles, favorites, and lists stay in sync between the Roku and the Android app, automatically.
-- **⭐ Favorites & lists** — Recently Watched and Favorites rows, your own named lists (Sports, Kids…) as Home rows, plus a **Kwick Picks** row of recommendations based on what you watch.
+- **⭐ Favorites & lists** — Recently Watched and Favorites rows, your own named lists (Sports, Kids…) as Home rows, plus a **Kwick Picks** row of recommendations based on what you watch. Favorited movies and shows are marked with a heart on the poster while you browse.
 - **🔒 Parental controls** — lock any category behind a 4-digit PIN: hide it completely, or show it and ask for the PIN.
 - **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
 - **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
@@ -185,7 +185,7 @@ That's it — the new version launches on its own.
 Kwick Player is shaped by our community — the features below started as member
 requests. Huge thanks to:
 
-- **Ed** — subtitle & caption debugging, PPV its own TV Guide tab
+- **Ed** — subtitle & caption debugging, PPV its own TV Guide tab, the favorite heart on posters
 - **crak3rjack** — the TV Guide's second row: your provider's own groups inside each genre tab
 - **Duffy** — the idea for KwickSync, Play from Beginning, auto-reconnect on stalls
 - **Kevin** — Shuffle Episodes: play a series in random order until you stop it
