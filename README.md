@@ -48,7 +48,7 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 - **🔒 Parental controls** — lock any category behind a 4-digit PIN: hide it completely, or show it and ask for the PIN.
 - **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
 - **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
-- **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider.
+- **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider. An M3U playlist can come from a web address **or straight off a USB drive** on Rokus that have a port.
 - **⏰ Sleep timer** — Off to 120 minutes on the player bar; when it fires, the app saves your spot and stops the stream.
 - **🗓️ M3U guide data** — playlists with a `url-tvg` XMLTV address fill in the TV Guide and channel pages (Xtream sources use the panel's EPG automatically).
 - **▶️ Cross-device resume** — KwickTV members: start a movie or episode on the Android app, pick it up at the same spot on the Roku.
@@ -186,7 +186,7 @@ Kwick Player is shaped by our community — the features below started as member
 requests. Huge thanks to:
 
 - **Ed** — subtitle & caption debugging, PPV its own TV Guide tab, the favorite heart on posters
-- **crak3rjack** — the TV Guide's second row: your provider's own groups inside each genre tab
+- **crak3rjack** — the TV Guide's second row (your provider's own groups inside each genre tab), naming the Custom EPG setting, M3U playlists from a USB drive
 - **Duffy** — the idea for KwickSync, Play from Beginning, auto-reconnect on stalls
 - **Kevin** — Shuffle Episodes: play a series in random order until you stop it
 - **Mred0940** — Favorite Lists
