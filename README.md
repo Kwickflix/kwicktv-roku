@@ -6,18 +6,19 @@
 
 **Live TV, movies & series on your Roku — installed through Roku's Developer Mode.**
 
-[![Version](https://img.shields.io/github/v/release/Kwickflix/kwicktv-roku?label=version&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-roku/total?label=downloads&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases)
-[![Roku](https://img.shields.io/badge/platform-Roku-662D91?logo=roku&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/platform-Roku-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](#)
 
-[![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3)
-[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5)
-[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218)
-[![Website](https://img.shields.io/badge/website-kwickflix.shop-1E7BD7?logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+[![Release date](https://img.shields.io/github/release-date/Kwickflix/kwicktv-roku?style=for-the-badge&logo=github&logoColor=white&label=release%20date&labelColor=2b2b2b&color=D6A700)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Kwickflix/kwicktv-roku?style=for-the-badge&logo=github&logoColor=white&label=release&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Kwickflix/kwicktv-roku/total?style=for-the-badge&logo=github&logoColor=white&label=downloads&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/releases)
+[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?style=for-the-badge&logo=github&logoColor=white&label=stars&labelColor=2b2b2b&color=1E7BD7)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
 
-[![Stars](https://img.shields.io/github/stars/Kwickflix/kwicktv-roku?label=stars&color=FFD700&logo=github)](https://github.com/Kwickflix/kwicktv-roku/stargazers)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FruGAfxUmZ3%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=2b2b2b&color=5865F2)](https://discord.gg/ruGAfxUmZ3)
+[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b2b)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b)](https://kwickplayer.tv/)
 
-[![Download the ZIP](https://img.shields.io/badge/download-KwickPlayer_ZIP-1E7BD7?logo=roku&logoColor=white)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Download the ZIP](https://img.shields.io/badge/download-KwickPlayer_ZIP-1E7BD7?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 
 </div>
 
@@ -29,7 +30,7 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 <div align="center">
 
-[![Star this repo](https://img.shields.io/badge/⭐-star_this_repo-FFD700?logo=github&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-roku)
+[![Star this repo](https://img.shields.io/badge/star_this_repo-%E2%AD%90-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku)
 
 </div>
 
@@ -65,7 +66,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 | Platform | Devices | |
 |:--|:--|:--:|
 | **Roku** | Roku sticks, boxes & TVs | ⬆️ you're here |
-| **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/get_the-Android_version-3ddc84?logo=android&logoColor=white&labelColor=555)](https://github.com/Kwickflix/kwicktv-android) |
+| **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/get_the-Android_version-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
 
 ---
 
@@ -173,10 +174,10 @@ That's it — the new version launches on its own.
 
 ## Community
 
-➡️ [![Discord](https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ruGAfxUmZ3) &nbsp;
-➡️ [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+8ifZv6x0sgAzOWE5) &nbsp;
-➡️ [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61590978926218) &nbsp;
-➡️ [![Website](https://img.shields.io/badge/Website-kwickflix.shop-2086FF?style=flat-square&logo=googlechrome&logoColor=white)](https://kwickflix.shop/)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FruGAfxUmZ3%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=2b2b2b&color=5865F2)](https://discord.gg/ruGAfxUmZ3)
+[![Telegram](https://img.shields.io/badge/telegram-join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2b2b2b)](https://t.me/+8ifZv6x0sgAzOWE5)
+[![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b)](https://www.facebook.com/profile.php?id=61590978926218)
+[![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b)](https://kwickplayer.tv/)
 
 ---
 
