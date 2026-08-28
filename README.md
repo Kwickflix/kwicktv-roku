@@ -38,7 +38,6 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 
 ## Features
 
-- **🧩 All your sources at once** — sign in with KwickTV, add another provider, plug in a playlist from a USB stick: they all show up together in one lineup. Categories with the same name from different sources become a single folder, and with more than one source each channel and poster says which one it came from. Everything you save stays with the service it came from, so favorites, resume points and watch history never get mixed up between providers.
 - **📺 Live TV & a real TV Guide** — browse by category with logos, or open the Plex-style timeline guide (genre tabs, half-hour timeline, runtime-sized blocks, red NOW line). OK tunes instantly, and every channel has a detail page with what's on now and up next. The guide opens on **All**, and under the genre tabs a second row lists your provider's own groups so you can jump straight to the one you want. Prefer a different guide? Point any source at an XMLTV guide of your own in **Settings → TV Guide → Custom EPG** — it matches on station callsign when the guide numbers its channels differently to your provider, and any channel it doesn't cover keeps your provider's listings.
 - **🏟️ Sports** — a page that finds the game first, then finds a channel showing it. Browse what's on now and what's coming up, filter by sport, and open any fixture to see every channel in your own playlist carrying it. Built entirely from your own channels and guide — no sports service involved.
 - **🎬 Movies & Series** — Movies | Series tabs, category strip, poster grid; movie and series pages with plot, cast, and Resume / Play from Beginning.
@@ -48,8 +47,8 @@ Running KwickPlayer on your Roku? Give it a star — it helps others find it and
 - **🔄 KwickSync** — KwickTV members' profiles, favorites, and lists stay in sync between the Roku and the Android app, automatically.
 - **⭐ Favorites & lists** — Recently Watched and Favorites rows, your own named lists (Sports, Kids…) as Home rows, plus a **Kwick Picks** row of recommendations based on what you watch. Favorited movies and shows are marked with a heart on the poster while you browse.
 - **🔒 Parental controls** — lock any category behind a 4-digit PIN: hide it completely, or show it and ask for the PIN.
-- **🔍 Search** — one search across every source you have, grouped into Channels · Movies · Series.
-- **⚙️ Deep settings** — add or remove providers, hide & reorder categories, channel sort, hide channels, and more.
+- **🔍 Search** — one search across your catalog, grouped into Channels · Movies · Series.
+- **⚙️ Deep settings** — switch/add/remove providers, hide & reorder categories, channel sort, hide channels, and more.
 - **🔑 Sign in your way** — featured KwickTV sign-in, or add any Xtream Codes or M3U provider. An M3U playlist can come from a web address **or straight off a USB drive** on Rokus that have a port.
 - **⏰ Sleep timer** — Off to 120 minutes on the player bar; when it fires, the app saves your spot and stops the stream.
 - **🗓️ M3U guide data** — playlists with a `url-tvg` XMLTV address fill in the TV Guide and channel pages (Xtream sources use the panel's EPG automatically).
