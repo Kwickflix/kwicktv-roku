@@ -4,7 +4,7 @@
 
 # Kwick Player for Roku
 
-**Live TV, movies & series on your Roku — installed through Roku's Developer Mode.**
+**Live TV, movies & series on your Roku — now on the Roku Channel Store, or sideload the same build yourself.**
 
 [![Platform](https://img.shields.io/badge/platform-Roku-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](#)
 
@@ -18,7 +18,9 @@
 [![Facebook](https://img.shields.io/badge/facebook-follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2b2b2b)](https://www.facebook.com/profile.php?id=61590978926218)
 [![Website](https://img.shields.io/badge/website-kwickplayer.tv-1E7BD7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b)](https://kwickplayer.tv/)
 
-[![Download the ZIP](https://img.shields.io/badge/download-KwickPlayer_ZIP-1E7BD7?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Get it on the Roku Channel Store](https://img.shields.io/badge/Roku_Channel_Store-get_it_free-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://channelstore.roku.com/details/b8a1d928743d5f68d29c479732a15310:666326ce45fc0fab1147f359d0661828/kwick-player)
+
+[![Download the ZIP](https://img.shields.io/badge/or_sideload-KwickPlayer_ZIP-1E7BD7?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 
 </div>
 
