@@ -69,6 +69,7 @@ Kwick Player runs on more than one platform — grab the one for your device:
 |:--|:--|:--:|
 | **Roku** | Roku sticks, boxes & TVs | ⬆️ you're here |
 | **Android** | Phones, tablets, Fire TV, Android TV | [![Android](https://img.shields.io/badge/get_the-Android_version-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-android/releases/latest) |
+| **Windows** | Windows 10 & 11 PCs and laptops | [![Windows](https://img.shields.io/badge/get_the-Windows_version-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwickplayer-windows/releases/latest) |
 
 ---
 
