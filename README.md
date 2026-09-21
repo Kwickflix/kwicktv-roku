@@ -20,7 +20,7 @@
 
 [![Get it on the Roku Channel Store](https://img.shields.io/badge/Roku_Channel_Store-get_it_free-662D91?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://channelstore.roku.com/details/b8a1d928743d5f68d29c479732a15310:666326ce45fc0fab1147f359d0661828/kwick-player)
 
-[![Download the ZIP](https://img.shields.io/badge/or_sideload-KwickPlayer_ZIP-1E7BD7?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
+[![Download the ZIP](https://img.shields.io/badge/or_sideload-Kwick_Player_ZIP-1E7BD7?style=for-the-badge&logo=roku&logoColor=white&labelColor=2b2b2b)](https://github.com/Kwickflix/kwicktv-roku/releases/latest)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## ⭐ Star this repo
 
-Running KwickPlayer on your Roku? Give it a star — it helps others find it and keeps the updates coming.
+Running Kwick Player on your Roku? Give it a star — it helps others find it and keeps the updates coming.
 
 <div align="center">
 
@@ -76,10 +76,10 @@ Kwick Player runs on more than one platform — grab the one for your device:
 ## Install — Developer Mode
 
 Roku doesn't allow private channel distribution for this app, so installation
-is done through Roku's built-in **Developer Mode**. The **KwickPlayer ZIP** is
+is done through Roku's built-in **Developer Mode**. The **Kwick Player ZIP** is
 attached to the [latest release](https://github.com/Kwickflix/kwicktv-roku/releases/latest).
 
-> **Already have KwickPlayer and just want the new version?**
+> **Already have Kwick Player and just want the new version?**
 > Skip this — go straight to [🔄 Updating to a new version](#-updating-to-a-new-version).
 > You won't lose your favorites or settings.
 
@@ -107,7 +107,7 @@ If you don't already know it:
 2. Go to **Settings → Network → About**.
 3. Your Roku's **IP Address** is shown on screen.
 
-### Step 3 — Install KwickPlayer
+### Step 3 — Install Kwick Player
 
 1. Open a web browser on your computer/phone.
 2. Enter your Roku's **IP address** in the address bar.
@@ -115,7 +115,7 @@ If you don't already know it:
    - **Username:** `rokudev`
    - **Password:** the password you created when enabling Developer Mode.
 4. On the **Development Application Installer** page, click **Upload**.
-5. Select the **KwickPlayer ZIP** from the latest release.
+5. Select the **Kwick Player ZIP** from the latest release.
 6. Click **Install**.
 
 The app installs and launches on your Roku automatically.
@@ -124,7 +124,7 @@ The app installs and launches on your Roku automatically.
 
 ## 🔄 Updating to a new version
 
-**Already have KwickPlayer installed? You do NOT need to uninstall anything,
+**Already have Kwick Player installed? You do NOT need to uninstall anything,
 and you will NOT lose your stuff.** Your profiles, favorites, lists, resume
 points and settings all carry straight over to the new version.
 
@@ -132,7 +132,7 @@ You also don't need to redo the remote-button sequence — **Developer Mode
 stays switched on** once you've enabled it. Updating is just steps 2 and 3
 again with the new ZIP:
 
-1. Download the latest **KwickPlayer ZIP** from the
+1. Download the latest **Kwick Player ZIP** from the
    [latest release](https://github.com/Kwickflix/kwicktv-roku/releases/latest).
 2. Open a web browser on your computer/phone and enter your **Roku's IP
    address** (Roku: **Settings → Network → About**).
@@ -142,7 +142,7 @@ again with the new ZIP:
    install button.
 
 > **The button says "Replace", not "Install".** That's normal — it means it
-> found the existing KwickPlayer and is swapping it for the new one. It is
+> found the existing Kwick Player and is swapping it for the new one. It is
 > the right button. You don't need to remove the old version first.
 
 That's it — the new version launches on its own.
@@ -160,7 +160,7 @@ That's it — the new version launches on its own.
   one. If you end up having to turn Developer Mode off and on again, just
   install the ZIP once more afterwards.
 - **Several Rokus?** Each one is separate — update each device you use
-  KwickPlayer on.
+  Kwick Player on.
 
 ---
 
@@ -168,7 +168,7 @@ That's it — the new version launches on its own.
 
 - Your computer/phone and Roku **must be on the same local network**.
 - **Developer Mode is per Roku device.** If you have several Rokus, repeat this
-  on **each** one you want KwickPlayer on.
+  on **each** one you want Kwick Player on.
 - Roku allows **one sideloaded app** per device. Installing another ZIP through
   Developer Mode **replaces** the current sideloaded app **on that Roku only** —
   it does not affect your other Roku devices.
